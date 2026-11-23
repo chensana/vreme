@@ -1,4 +1,4 @@
-##Vremenska postaja##
+# Vremenska postaja #
 
 Vreme
 Modul v programskem jeziku Go za upravljanje vremenskih postaj in temperaturnih meritev.
